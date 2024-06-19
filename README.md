@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Lucas Eduardo
 
-- 🔭 Hoje trabalho com Back-end
+- 🔭 Quero trabalhar como Dev Java FullStack
 - 🌱 Estou a prendendo Java
   😎 Developer Junior
 - 📫 LinkedIn: https://www.linkedin.com/in/lucas-ed-silva/
